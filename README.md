@@ -1,105 +1,35 @@
-<h3 align="center">DayZ Model Obfuscator</h3>
+<p align="center">
+    <img src="https://pbo.tools/assets/images/logo.png" width="512">
+</p>
 
+<p align="center">
+    <a href="https://github.com/PBO-Tools/DayZ-Model-Obfuscator/releases/latest">
+        <img src="https://img.shields.io/badge/Version-1.0.7.1-red.svg?style=flat-square" alt="PBO Tools Version">
+    </a>
+</p>
 
+PBO Tools DayZ Model Obfuscator is a free and user-friendly P3D obfuscation suite, specially crafted for DayZ. It simplifies the model obfuscation process, making it accessible to all users, regardless of their experience level.
 
+Explore our free PBO obfuscator at https://obfuscator.pbo.tools
 
+## Features
 
+- Intuitive and user-friendly interface
+- Utilizes an advanced model obfuscation model
+- Breaks deobfuscation software, enhancing protection
+- Regular updates and continuous improvements for enhanced functionality
 
+## Installation
 
+* Download the most latest version of PBO Tools DayZ Model Obfuscator and save the application to your Desktop. Then, drag a binarized P3D onto the exe and follow the on-screen instructions.
 
 
+## Support
 
+* If you encounter any issues, please visit https://discord.pbo.tools and open a ticket and we'll get you sorted.
 
+## License
+* https://pbo.tools/end-user-licence-agreement
 
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ABOUT THE PROJECT -->
-
-
-
-
-
-
-
-## About The Project
-
-
-
-<h3 align="center">Overview:</h3> 
-PBO Tools is available completely free of charge and provides powerful obfuscation capabilities for your P3Ds, making it more difficult for workshop thieves to steal your models.
-
-
-To use the software, simply drag the application onto your desktop. Drag your p3d onto PBO Tools to open the application and wait seconds for it process
-
-After the process is complete, you will receive a "success" message along with the location of your file You can then include this file in your server, knowing that it is much more difficult for workshop thieves to steal your model.
-
-If you require assistance, please feel free to create a ticket on our Discord channel at https://discord.pbo.tools.
-
-<h3 align="center">License:</h3> 
-https://pbo.tools/end-user-licence-agreement
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Privacy Policy
+* https://pbo.tools/privacy-policy
